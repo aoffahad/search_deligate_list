@@ -1,0 +1,2 @@
+D:/RubizCode/RnD/search_deligate_list/android/app/.cxx/Debug/4w4p5d2w/x86/CMakeFiles/edit_cache.dir
+D:/RubizCode/RnD/search_deligate_list/android/app/.cxx/Debug/4w4p5d2w/x86/CMakeFiles/rebuild_cache.dir
